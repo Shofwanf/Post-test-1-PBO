@@ -1,5 +1,5 @@
 # Post-test-1-PBO
-## Proyek Transportasi Umum
+## Sistem Pengelolaan Transportasi Umum
 ### 1. Kendaraan.java
 Kelas `Kendaraan` memiliki tiga properti:
 - `nomorKendaraan`: String yang menyimpan nomor kendaraan.
